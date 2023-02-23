@@ -2,7 +2,15 @@
 
 Nesse desafio, recebemos um código com o projeto desenvolvido durante as aulas da Fase 02.
 
-Mas, a surpresa vem aí... **👀**
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
+
 
 O código sofreu algumas alterações e, como podemos ver na imagem abaixo, ele não está mais da mesma forma que o Maykão deixou.
 
@@ -13,4 +21,4 @@ Nosso desafio é deixar a página como está no layout original, como na imagem 
 ![desafio](/images/Projeto%2002.png)
 
 Veja como ficou, clique no link abaixo:
-- [Visite o projeto online](https://danilojcosta.github.io/nlw-setup/)
+- [Visite o projeto online](https://danilojcosta.github.io/treine.me/)
